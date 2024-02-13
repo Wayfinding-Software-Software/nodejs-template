@@ -40,7 +40,7 @@ You're taken to a web interface running Visual Studio Code after creating the ne
 6. Click the `...` on the codespace that you created
 7. Click "Open in Visual Studio Code" to redirect to your native VS Code
 
-From here, VS code will prompt github logic and recommend installing important extensions like "Dev Containers" and "GitHub Codespaces"
+From here, VS code will prompt github login and recommend installing important extensions like "Dev Containers" and "GitHub Codespaces".  It's all very easy and straightforward.
 
 That's it!  You can forget about setting up and maintaining dev environments and focus on building apps.
 
