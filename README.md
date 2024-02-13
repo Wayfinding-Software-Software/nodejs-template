@@ -60,4 +60,4 @@ The `.env.vault` file is different.  They make it easy to setup an encrypted dat
 
 # Write new Tests
 
-You can create more tests in the `/tests/` directory and organize them however you like.  Use the `homepage.test.js` as an example.  Read more about the [Jest](https://jestjs.io/) Testing Framework.  And just be sure to end each file with `.test.js`.
+You can create more tests in the `/tests/` directory and organize them however you like.  Use the `homepage.test.js` as an example.  Read more about the [Jest](https://jestjs.io/) Testing Framework.  And just be sure to end each filename with `.test.js`.
