@@ -26,7 +26,7 @@ npm test
 
 # Using github codespaces
 
-I recommend using github codespaces with the native [Visual Studio Code](https://code.visualstudio.com/)
+I recommend using github codespaces with the native [Visual Studio Code](https://code.visualstudio.com/) app.
 
 The steps that I follow when getting started are:
 1. Go to the github repo and click the `< > Code` dropdown.
