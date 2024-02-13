@@ -4,6 +4,7 @@ by [Wayfinding Software Solutions](https://wayfinding.software)
 This repo is meant to be a starting point for a new app or micro-service project, using Node JS and Express.js.
 
 # Features
+* [Express.js](https://github.com/expressjs/express) Application Framework
 * [Jest](https://jestjs.io/) Testing Framework
 * [Github Codespaces](https://github.com/features/codespaces) for instant Developer Environment setup
 * [dotenv](https://github.com/motdotla/dotenv?tab=readme-ov-file#dotenv-) handling environment variables / settings
@@ -11,13 +12,14 @@ This repo is meant to be a starting point for a new app or micro-service project
 
 # Important Commands
 
-To run this application:
+### To run this application:
 
 ```
 npm start
 ```
+And visit [http://localhost:3000](http://localhost:3000) to see the homepage.  Or in VS Code, a tab will automatically open.
 
-To run all tests:
+### To run all tests:
 ```
 npm test
 ```
