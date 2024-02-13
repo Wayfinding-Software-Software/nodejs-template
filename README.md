@@ -5,6 +5,9 @@ This repo is meant to be a starting point for a new app or micro-service project
 
 # Features
 * [Express.js](https://github.com/expressjs/express) Application Framework
+   * [Express Generator](https://expressjs.com/en/starter/generator.html)
+   * [Routing](https://expressjs.com/en/guide/routing.html) 
+   * [Database Integration](https://expressjs.com/en/guide/database-integration.html) 
 * [Jest](https://jestjs.io/) Testing Framework
 * [Github Codespaces](https://github.com/features/codespaces) for instant Developer Environment setup
 * [dotenv](https://github.com/motdotla/dotenv?tab=readme-ov-file#dotenv-) handling environment variables / settings
